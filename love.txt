@@ -1,3 +1,6 @@
 master 1 
 master 2
 masster 3 after gati 
+gati 1
+gati 2 
+gati 3 after master 3
